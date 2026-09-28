@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://www.dropbox.com/scl/fi/3bq4fxgohbowrqxbyqu22/Delta_2.735.1135_1787871604.ipa?rlkey=hvwwmamr1wk8e4w1cgnfn56vk&amp;st=gl7bjaxl&amp;dl=1</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.gloop.deltamobile</string>
+                <key>bundle-version</key>
+                <string>2.735.1135</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>Delta</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
